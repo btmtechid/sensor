@@ -6,7 +6,7 @@
 DHT dht(DHTPIN, DHTTYPE);
 LiquidCrystal_I2C lcd(0x27, 16, 2);
 void setup() {
-  Serial.begin(9600);
+  Serial.begin(9600);communication
   dht.begin(); 
   lcd.init();  
   lcd.backlight();  
@@ -14,7 +14,7 @@ void setup() {
   lcd.print("BTMTECH.ID");
   lcd.setCursor(1, 1);
   lcd.print("Temp & Humidity");
-  delay(500);
+  delay(1000);
   lcd.clear();
 }
 void loop() {
