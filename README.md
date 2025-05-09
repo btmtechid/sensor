@@ -13,12 +13,13 @@ I usually simulate Arduino projects on both platforms.
 
 ## Refences
 If you need further information or tutorials, you can open the following platforms that I usually use.
-1. https://projecthub.arduino.cc/
-2. https://www.hivemq.com/
-3. https://thingspeak.mathworks.com/
-4. https://srituhobby.com/
-5. https://kursuselektronikaku.blogspot.com/
-6. https://deepbluembedded.com/
-7. https://www.instructables.com/projects
+1. https://skinnyboys.medium.com/
+2. https://projecthub.arduino.cc/
+3. https://www.hivemq.com/
+4. https://thingspeak.mathworks.com/
+5. https://srituhobby.com/
+6. https://kursuselektronikaku.blogspot.com/
+7. https://deepbluembedded.com/
+8. https://www.instructables.com/projects
 
 ## Thankyou
