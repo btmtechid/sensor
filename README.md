@@ -7,6 +7,10 @@ I usually simulate Arduino projects on both platforms.
 1. https://wokwi.com/
 2. https://www.tinkercad.com/
 
+## Platform Internet of Things (IoT)
+1. https://blynk.io/
+2. https://thingspeak.mathworks.com/
+
 ## Refences
 If you need further information or tutorials, you can open the following platforms that I usually use.
 1. https://projecthub.arduino.cc/
